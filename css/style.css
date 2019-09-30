@@ -1,0 +1,12 @@
+#banner {
+    background-color:rgb(177, 39, 177);
+    color:white;
+}
+
+#class-title {
+    color:magenta;
+}
+
+.course {
+    margin-bottom: 2em;
+}
